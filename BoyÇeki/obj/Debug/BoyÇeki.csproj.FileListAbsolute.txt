@@ -1,0 +1,11 @@
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\bin\Debug\BoyÇeki.exe.config
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\bin\Debug\BoyÇeki.exe
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\bin\Debug\BoyÇeki.pdb
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.csproj.AssemblyReference.cache
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.csproj.SuggestedBindingRedirects.cache
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.Properties.Resources.resources
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.csproj.GenerateResource.cache
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.csproj.CoreCompileInputs.cache
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.exe
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.pdb
+D:\Visualstudio\IATC  C# lessons\BoyÇeki\BoyÇeki\obj\Debug\BoyÇeki.Frm1.resources
